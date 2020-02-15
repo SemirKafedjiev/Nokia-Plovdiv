@@ -84,6 +84,20 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: white;
     color: black;
 }
+#btn-g-r-1{
+    background-color: white;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 50px;
+    width: 125px;
+    background-color: transparent;
+    border: 2 px solid black;
+    color: white;
+}
+#btn-g-r-1:hover{
+    background-color: white;
+    color: black;
+}
 
 .go-and-create-pics{
     display: flex;
