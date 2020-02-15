@@ -36,6 +36,9 @@ justify-content: space-around;
     text-decoration: none;
     color: black;
 }
+.link:hover{
+    color: white;
+}
 .go-and-create{
     
     display: flex;
