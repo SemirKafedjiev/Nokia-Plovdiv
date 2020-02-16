@@ -292,6 +292,11 @@ footer{
         display: none;
         
     }
+    #btn-g-r-1{
+            height: 20px;
+            width: 35px;
+            font-size: 7px;
+        }
     .links{
         flex: 3;
     }
